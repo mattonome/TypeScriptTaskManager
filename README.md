@@ -14,7 +14,7 @@ The **Task Manager** is a command-line application that allows users to create, 
 - File I/O using the Node.js fs module
 - Command-line interface with readline
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1thcEnB1nJ5x8WS8NNYRrMmMwwNyaHrhY/view?usp=sharing)
 
 ## Development Environment
 
